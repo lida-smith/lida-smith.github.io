@@ -2,10 +2,10 @@
 ![Image of two conures](conures.jpg)
 
 This website is created as an activity for CS155.\
-Text can be **bolded**, *italicized*, or ~~striked through~~.
+Text can be **bolded**, *italicized*, or ~~striked through~~.\
 [This](https://github.com/lida-smith/lida-smith.github.io) links to the repository running the website.
 
-## A List
+####A List
 - One
 - Two
 - Three
