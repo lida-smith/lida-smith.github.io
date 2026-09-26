@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Lida's homepage
 description: Bookmark this to keep an eye on my project updates!
+exclude: ['./README.md']
